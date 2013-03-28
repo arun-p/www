@@ -1,15 +1,15 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, analytics{UA-39669259-1}
 = Arun Paidimarri
 
 ~~~
 {}{img_left_wcaption}{arun.jpg}{Photo credit: Rahul Rithe}
 Hello World! I am Arun Paidimarri, a Ph.D candidate in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] where I previously completed the S.M degree in 2011. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
 
-My advisor is [http://www-mtl.mit.edu/~anantha Prof. Anantha Chandrakasan]. Our [http://www-mtl.mit.edu/researchgroups/icsystems/people.html research group] works on a whole range of integrated circuits and systems, and it is a great fortune to be spending time here.
+My advisor is [http://www-mtl.mit.edu/~anantha Prof. Anantha Chandrakasan]. Our [http://www-mtl.mit.edu/researchgroups/icsystems/people.html research group] works on a whole range of integrated circuits and systems.
 
 I work on low-power wireless systems, where energy-constrained devices communicate  with base-stations. The holy grail in this line of work is to demonstrate energy autonomous systems that spend power low enough to be harvested through ambient energy while also maintaining reliable operation.
 
-Right now, my web-page is minimal, but I hope to add more information as time goes by. You will find my [index.html\#publications publications] and [index.html\#contact contact information] below.
+Right now, this page is minimal, but I hope to add more information as time goes by. You will find my [index.html\#publications publications] and [index.html\#contact contact information] below.
 ~~~
 
 {{<a name="publications"></a>}}

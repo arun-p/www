@@ -2,7 +2,7 @@
 = Arun Paidimarri
 
 ~~~
-{}{img_left}{arun.jpg}{A photo of Arun Paidimarri, thanks to Rahul Rithe}
+{}{img_left_wcaption}{arun.jpg}{Photo credit: Rahul Rithe}
 Hello World! I am Arun Paidimarri, a Ph.D candidate in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] where I previously completed the S.M degree in 2011. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
 
 My advisor is [http://www-mtl.mit.edu/~anantha Prof. Anantha Chandrakasan]. Our [http://www-mtl.mit.edu/researchgroups/icsystems/people.html research group] works on a whole range of integrated circuits and systems, and it is a great fortune to be spending time here.
@@ -17,7 +17,7 @@ Right now, my web-page is minimal, but I hope to add more information as time go
 My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] profile should keep an up-to-date list even if I slack off with the list here :P
 
 === Thesis
-. A. Paidimarri,
+. A. Paidimarri,\n
 "Architecture for ultra-low power multi-channel transmitters for Body Area Networks using RF resonators",\n
 /S.M. thesis/, EECS, MIT, 2011 \[[http://dspace.mit.edu/handle/1721.1/66473 MIT Dspace]\]
 === Journal

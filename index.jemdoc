@@ -25,9 +25,15 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 "A 2.4 GHz Multi-Channel FBAR-based Transmitter With an Integrated Pulse-Shaping Power Amplifier,"\n
 /IEEE J. Solid-State Circuits/, Apr. 2013. \[[http://dx.doi.org/10.1109/JSSC.2013.2239001 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/93089 MIT Dspace]\]
 === Conference
+. P.M. Nadeau, A. Paidimarri, A.P. Chandrakasan,\n
+"4.2 pW Timer for Heavily Duty-Cycled Systems,"\n
+/IEEE Symposium on VLSI Circuits (VLSI)/, Jun. 2015, /to appear./
+. A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
+"A 0.68V 0.68mW 2.4GHz PLL for Ultra-low Power RF Systems,"\n
+/IEEE Radio Frequency Integrated Circuits (RFIC) Symposium/, May. 2015, /to appear./
 . A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
 "A +10dBm 2.4GHz Transmitter with sub-400pW Leakage and 43.7\% System Efficiency,"\n
-/IEEE International Solid State Circuits Conference (ISSCC)/, Feb. 2015. \[[http://hdl.handle.net/1721.1/95676 MIT Dspace]\]
+/IEEE International Solid State Circuits Conference (ISSCC)/, Feb. 2015. \[[http://dx.doi.org/10.1109/ISSCC.2015.7063018 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/95676 MIT Dspace]\]
 . G. Angelopoulos, A. Paidimarri, A. P. Chandrakasan, M. Medard,\n
 “Experimental Study of the Interplay of Channel and Network Coding in Low Power Sensor Applications”,\n
 /IEEE International Conference on Communications (ICC)/, Jun. 2013. \[[http://www.rle.mit.edu/ncrc/wp-content/uploads/2013/08/icc_paper.pdf RLE]\]\[[http://dx.doi.org/10.1109/ICC.2013.6655396 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/86046 MIT Dspace]\]\n

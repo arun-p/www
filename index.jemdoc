@@ -3,13 +3,13 @@
 
 ~~~
 {}{img_left_wcaption}{arun.jpg}{Photo credit: Rahul Rithe}
-Hello World! I am Arun Paidimarri, a Ph.D candidate in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] where I previously completed the S.M degree in 2011. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
+Hello World! I am Arun Paidimarri, a postdoctoral associate in MIT. I completed my Ph.D in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] in October 2015. I previously also completed the S.M degree in 2011 also at MIT EECS. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
 
 My advisor is [http://www-mtl.mit.edu/~anantha Prof. Anantha Chandrakasan]. Our [http://www-mtl.mit.edu/researchgroups/icsystems/people.html research group] works on a whole range of integrated circuits and systems.
 
 I work on low-power wireless systems, where energy-constrained devices communicate  with base-stations. The holy grail in this line of work is to demonstrate energy autonomous systems that spend power low enough to be harvested through ambient energy while also maintaining reliable operation.
 
-Right now, this page is minimal, but I hope to add more information as time goes by. You will find my [index.html\#publications publications] and [index.html\#contact contact information] below.
+You will find my [index.html\#publications publications] and [index.html\#contact contact information] below.
 ~~~
 
 {{<a name="publications"></a>}}
@@ -18,16 +18,24 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 
 === Thesis
 . A. Paidimarri,\n
-"Architecture for ultra-low power multi-channel transmitters for Body Area Networks using RF resonators",\n
+"Architecture for ultra-low power multi-channel transmitters for Body Area Networks using RF resonators,"\n
 /S.M. thesis/, EECS, MIT, 2011 \[[http://dspace.mit.edu/handle/1721.1/66473 MIT Dspace]\]
+=== Book Chapter
+. P. M. Nadeau, A. Paidimarri, P. P. Mercier, A. P. Chandrakasan,\n
+"Architectures for Ultra-Low-Power Multi-Channel Resonator-Based Wireless Transceivers,"\n
+/Ultra-Low-Power Short-Range Radios/, Ed. P. P. Mercier, Ed. A. P. Chandrakasan, 2015. \[[http://dx.doi.org/10.1007/978-3-319-14714-7_4 Springer]\]
 === Journal
 . A. Paidimarri, P. M. Nadeau, P. P. Mercier, A. P. Chandrakasan,\n
 "A 2.4 GHz Multi-Channel FBAR-based Transmitter With an Integrated Pulse-Shaping Power Amplifier,"\n
-/IEEE J. Solid-State Circuits/, Apr. 2013. \[[http://dx.doi.org/10.1109/JSSC.2013.2239001 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/93089 MIT Dspace]\]
+/IEEE J. Solid-State Circuits/, Apr. 2013. \[[http://dx.doi.org/10.1109/JSSC.2013.2239001 IEEE Xplore
+]\]\[[http://hdl.handle.net/1721.1/93089 MIT Dspace]\]
+. X. Wang, S. Hou, H. Goktas, P. Kovacik, F. Yaul, A. Paidimarri, N. Ickes, A. P. Chandrakasan, K. Gleason,\n
+"Small-Area, Resistive Volatile Organic Compound (VOC) Sensors Using Metal-Polymer Hybrid Film Based on Oxidative Chemical Vapor Deposition (oCVD),"\n
+/ACS Applied Materials & Interfaces/, 2015 7 (30), \[[http://dx.doi.org/10.1021/acsami.5b05392 ACS]\]
 === Conference
 . P.M. Nadeau, A. Paidimarri, A.P. Chandrakasan,\n
 "4.2 pW Timer for Heavily Duty-Cycled Systems,"\n
-/IEEE Symposium on VLSI Circuits (VLSI)/, Jun. 2015, /to appear./
+/IEEE Symposium on VLSI Circuits (VLSI)/, Jun. 2015. \[[http://dx.doi.org/10.1109/VLSIC.2015.7231272 IEEE Xplore]\]
 . A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
 "A 0.68V 0.68mW 2.4GHz PLL for Ultra-low Power RF Systems,"\n
 /IEEE Radio Frequency Integrated Circuits (RFIC) Symposium/, May. 2015, /to appear./
@@ -35,8 +43,8 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 "A +10dBm 2.4GHz Transmitter with sub-400pW Leakage and 43.7\% System Efficiency,"\n
 /IEEE International Solid State Circuits Conference (ISSCC)/, Feb. 2015. \[[http://dx.doi.org/10.1109/ISSCC.2015.7063018 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/95676 MIT Dspace]\]
 . G. Angelopoulos, A. Paidimarri, A. P. Chandrakasan, M. Medard,\n
-“Experimental Study of the Interplay of Channel and Network Coding in Low Power Sensor Applications”,\n
-/IEEE International Conference on Communications (ICC)/, Jun. 2013. \[[http://www.rle.mit.edu/ncrc/wp-content/uploads/2013/08/icc_paper.pdf RLE]\]\[[http://dx.doi.org/10.1109/ICC.2013.6655396 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/86046 MIT Dspace]\]\n
+"Experimental Study of the Interplay of Channel and Network Coding in Low Power Sensor Applications,"\n
+/International Conference on Communications (ICC)/, Jun. 2013. \[[http://www.rle.mit.edu/ncrc/wp-content/uploads/2013/08/icc_paper.pdf RLE]\]\[[http://dx.doi.org/10.1109/ICC.2013.6655396 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/86046 MIT Dspace]\]\n
 *Best Paper Award*
 . A. Paidimarri, D. Griffith, A. Wang, A. P. Chandrakasan, G. Burra,\n
 "A 120 nW 18.5 kHz RC Oscillator with Comparator Offset Cancellation for ±0.25\% Temperature Stability,"\n

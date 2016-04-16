@@ -19,15 +19,21 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 === Thesis
 . A. Paidimarri,\n
 "Architecture for ultra-low power multi-channel transmitters for Body Area Networks using RF resonators,"\n
-/S.M. thesis/, EECS, MIT, 2011 \[[http://dspace.mit.edu/handle/1721.1/66473 MIT Dspace]\]
+/S.M. Thesis/, EECS, MIT, 2011 \[[http://dspace.mit.edu/handle/1721.1/66473 MIT Dspace]\]
+. A. Paidimarri,\n
+"Circuits and Protocols for Low Duty Cycle Wireless Systems,"\n
+/Ph.D. Thesis/, EECS, MIT, 2015
 === Book Chapter
 . P. M. Nadeau, A. Paidimarri, P. P. Mercier, A. P. Chandrakasan,\n
 "Architectures for Ultra-Low-Power Multi-Channel Resonator-Based Wireless Transceivers,"\n
 /Ultra-Low-Power Short-Range Radios/, Ed. P. P. Mercier, Ed. A. P. Chandrakasan, 2015. \[[http://dx.doi.org/10.1007/978-3-319-14714-7_4 Springer]\]
 === Journal
+. A. Paidimarri, D. Griffith, A. Wang, G. Burra, A. P. Chandrakasan,\n
+"An RC Oscillator with Comparator Offset Cancellation,"\n
+/IEEE J. Solid-State Circuits/, to appear.
 . A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
 "A +10dBm BLE Transmitter with sub-400pW Leakage for Ultra-low Duty Cycles,"\n
-/IEEE J. Solid-State Circuits/, to appear.
+/IEEE J. Solid-State Circuits/, Jun. 2016. \[[http://dx.doi.org/10.1109/JSSC.2016.2539345 IEEE Xplore]\]
 . P. M. Nadeau, A. Paidimarri, A. P. Chandrakasan,\n
 "Ultra Low-Energy Relaxation Oscillator With 230 fJ\/cycle Efficiency,"\n
 /IEEE J. Solid-State Circuits/, Apr. 2016. \[[http://dx.doi.org/10.1109/JSSC.2016.2521886 IEEE Xplore]\]
@@ -50,7 +56,8 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 /IEEE Radio Frequency Integrated Circuits (RFIC) Symposium/, May. 2015, \[[http://dx.doi.org/10.1109/RFIC.2015.7337789 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/100251 MIT Dspace]\]
 . A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
 "A +10dBm 2.4GHz Transmitter with sub-400pW Leakage and 43.7\% System Efficiency,"\n
-/IEEE International Solid State Circuits Conference (ISSCC)/, Feb. 2015. \[[http://dx.doi.org/10.1109/ISSCC.2015.7063018 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/95676 MIT Dspace]\]
+/IEEE International Solid State Circuits Conference (ISSCC)/, Feb. 2015. \[[http://dx.doi.org/10.1109/ISSCC.2015.7063018 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/95676 MIT Dspace]\]\n
+*[https://player.vimeo.com/video/136713739 Video from the Demo Session]*
 . G. Angelopoulos, A. Paidimarri, A. P. Chandrakasan, M. Medard,\n
 "Experimental Study of the Interplay of Channel and Network Coding in Low Power Sensor Applications,"\n
 /International Conference on Communications (ICC)/, Jun. 2013. \[[http://www.rle.mit.edu/ncrc/wp-content/uploads/2013/08/icc_paper.pdf RLE]\]\[[http://dx.doi.org/10.1109/ICC.2013.6655396 IEEE Xplore]\]\[[http://hdl.handle.net/1721.1/86046 MIT Dspace]\]\n

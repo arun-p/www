@@ -3,7 +3,9 @@
 
 ~~~
 {}{img_left_wcaption}{arun.jpg}{Photo credit: Rahul Rithe}
-Hello World! I am Arun Paidimarri, a postdoctoral associate in MIT. I completed my Ph.D in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] in October 2015. I previously also completed the S.M degree in 2011 also at MIT EECS. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
+Hello World! I am currently a postdoctoral researcher at [http://wwww.research.ibm.com/labs/watson/ IBM Research].
+
+Previously, I was a postdoctoral associate in MIT. I completed my Ph.D in [http://www.eecs.mit.edu EECS] at [http://web.mit.edu Massachusetts Institute of Technology] in October 2015. I previously also completed the S.M degree in 2011 also at MIT EECS. I received my B.Tech degree in [http://www.ee.iitb.ac.in Electrical Engineering] from [http://www.iitb.ac.in IIT Bombay] in 2009. 
 
 My advisor is [http://www-mtl.mit.edu/~anantha Prof. Anantha Chandrakasan]. Our [http://www-mtl.mit.edu/researchgroups/icsystems/people.html research group] works on a whole range of integrated circuits and systems.
 
@@ -22,7 +24,7 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 /S.M. Thesis/, EECS, MIT, 2011 \[[http://dspace.mit.edu/handle/1721.1/66473 MIT Dspace]\]
 . A. Paidimarri,\n
 "Circuits and Protocols for Low Duty Cycle Wireless Systems,"\n
-/Ph.D. Thesis/, EECS, MIT, 2015
+/Ph.D. Thesis/, EECS, MIT, 2015 \[[https://dspace.mit.edu/handle/1721.1/103674 MIT Dspace]\]
 === Book Chapter
 . P. M. Nadeau, A. Paidimarri, P. P. Mercier, A. P. Chandrakasan,\n
 "Architectures for Ultra-Low-Power Multi-Channel Resonator-Based Wireless Transceivers,"\n
@@ -30,7 +32,7 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 === Journal
 . A. Paidimarri, D. Griffith, A. Wang, G. Burra, A. P. Chandrakasan,\n
 "An RC Oscillator with Comparator Offset Cancellation,"\n
-/IEEE J. Solid-State Circuits/, to appear.
+/IEEE J. Solid-State Circuits/, Aug. 2016. \[[http://dx.doi.org/10.1109/JSSC.2016.2559508 IEEE Xplore]\]
 . A. Paidimarri, N. Ickes, A. P. Chandrakasan,\n
 "A +10dBm BLE Transmitter with sub-400pW Leakage for Ultra-low Duty Cycles,"\n
 /IEEE J. Solid-State Circuits/, Jun. 2016. \[[http://dx.doi.org/10.1109/JSSC.2016.2539345 IEEE Xplore]\]
@@ -45,6 +47,9 @@ My [http://scholar.google.com/citations?user=FhcloGAAAAAJ&hl=en Google Scholar] 
 /IEEE J. Solid-State Circuits/, Apr. 2013. \[[http://dx.doi.org/10.1109/JSSC.2013.2239001 IEEE Xplore
 ]\]\[[http://hdl.handle.net/1721.1/93089 MIT Dspace]\]
 === Conference
+. A. Paidimarri, A. P. Chandrakasan,\n
+"A Buck Converter with 240pW Quiescent Power, 92% Peak Efficiency and 2E6 Dynamic Range,"\n
+/IEEE International Solid State Circuits Conference (ISSCC)/, /to appear Feb. 2017/.
 . S. Zhao, A. Paidimarri, N. Ickes, M. Araghchini, J. Lang, J. Ma, Y. Ramadass, D. Buss,\n
 "Extending the bandwidth of Piezo-Electric energy harvesting through the use of Bias Flip,"\n
 /IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference/, Oct. 2015. \[[http://dx.doi.org/10.1109/S3S.2015.7333534 IEEE Xplore]\]
